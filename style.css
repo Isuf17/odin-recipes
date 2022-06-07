@@ -3,7 +3,6 @@
     background-color: beige;
 
 /*home page */
-
 }
 
 .home_page #title {
@@ -12,4 +11,16 @@
     text-decoration: underline;
 }
 
-/*burger recipe*/
+/*lasagna recipe*/
+
+.lasagna .recipe_title {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.lasagna img {
+    height: auto;
+    width: 500px;
+    text-align: center;
+}
+
