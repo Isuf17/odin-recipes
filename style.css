@@ -1,0 +1,15 @@
+*{
+    font-family: 'Times New Roman', Arial, sans-serif;
+    background-color: beige;
+
+/*home page */
+
+}
+
+.home_page #title {
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/*burger recipe*/
